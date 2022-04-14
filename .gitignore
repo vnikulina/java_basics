@@ -23,6 +23,8 @@ out/
 *.tar.gz
 *.rar
 *.iml
+gradle*
+settings.gradle
 
 # Ignore Gradle GUI config
 gradle-app.setting
